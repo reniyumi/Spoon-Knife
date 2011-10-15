@@ -1,0 +1,18 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+body { text-align: center; }
+
+#octocat {
+  display: block;
+  margin: 50px auto;
+}
+
+p {
+  display: block;
+  width: 400px;
+  margin: 50px auto;
+  font: 30px Arial, sans-serif;
+}
